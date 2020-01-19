@@ -1,8 +1,8 @@
 ### 生平所学，温故而知新
 
 * java基础
-  * [hashmap](https://github.com/caicai457614705/developer-guide/wiki/hashmap)
-  * [concurrentHashMap](https://github.com/caicai457614705/developer-guide/wiki/concurrentHashMap)
+  * [HashMap](https://github.com/caicai457614705/developer-guide/wiki/HashMap)
+  * [ConcurrentHashMap](https://github.com/caicai457614705/developer-guide/wiki/ConcurrentHashMap)
   * [多线程基础](https://github.com/caicai457614705/developer-guide/wiki/多线程基础)
   * [常用多线程工具 ](https://github.com/caicai457614705/developer-guide/wiki/常用多线程工具)
 * mysql
@@ -38,7 +38,7 @@
   * [ELK搭建](https://github.com/caicai457614705/developer-guide/wiki/ELK搭建)
   * [logstash使用](https://github.com/caicai457614705/developer-guide/wiki/logstash使用)
   * [kibana使用和图表配置](https://github.com/caicai457614705/developer-guide/wiki/kibana使用和图表配置)
-* springboot
+* SpringBoot
   * [自动配置原理解析](https://github.com/caicai457614705/developer-guide/wiki/自动配置原理解析)
   * [自己编写配置类](https://github.com/caicai457614705/developer-guide/wiki/自己编写配置类)
 * dubbo
@@ -46,4 +46,6 @@
   * [dubbo负载均衡策略](https://github.com/caicai457614705/developer-guide/wiki/dubbo负载均衡策略)
 * 大数据场景解决方案
   * [分库分表和数据库异构](https://github.com/caicai457614705/developer-guide/wiki/分库分表和数据库异构)
-
+  * [分治法](https://github.com/caicai457614705/developer-guide/wiki/分治法)
+  * [位图法](https://github.com/caicai457614705/developer-guide/wiki/位图法)
+  * [布隆过滤](https://github.com/caicai457614705/developer-guide/wiki/布隆过滤)
