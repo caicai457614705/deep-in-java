@@ -46,6 +46,6 @@
   * [dubbo负载均衡策略](https://github.com/caicai457614705/developer-guide/wiki/dubbo负载均衡策略)
 * 大数据场景解决方案
   * [分库分表和数据库异构](https://github.com/caicai457614705/developer-guide/wiki/分库分表和数据库异构)
-  * [分治法](https://github.com/caicai457614705/developer-guide/wiki/分治法)
-  * [位图法](https://github.com/caicai457614705/developer-guide/wiki/位图法)
-  * [布隆过滤](https://github.com/caicai457614705/developer-guide/wiki/布隆过滤)
+  * [fork and join](https://github.com/caicai457614705/developer-guide/wiki/fork-and-join)
+  * [bit map](https://github.com/caicai457614705/developer-guide/wiki/bit-map)
+  * [bloom filter](https://github.com/caicai457614705/developer-guide/wiki/bloom-filter)
