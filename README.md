@@ -1,5 +1,6 @@
 ### 生平所学，温故而知新
 
+* [Home](https://github.com/caicai457614705/deep-in-java/wiki)
 * java基础
   * [HashMap](https://github.com/caicai457614705/developer-guide/wiki/HashMap)
   * [ConcurrentHashMap](https://github.com/caicai457614705/developer-guide/wiki/ConcurrentHashMap)
